@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My RecyclerView</string>
+
+    <string-array name="programming_languages">
+        <item>ww</item>
+        <item>rrr</item>
+        <item>rr</item>
+        <item>tt</item>
+        <item>t</item>
+        <item>download</item>
+        <item>s</item>
+        <item>m</item>
+        <item>q</item>
+        <item>w</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+        <item>This random description</item>
+    </string-array>
+
+</resources>
